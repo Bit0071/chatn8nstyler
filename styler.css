@@ -1,3 +1,13 @@
 .chat-header  {
                background-color: rgb(254, 181, 178);
               }
+
+:root {
+	--chat--color-primary: #FEB5B2;
+	
+	
+	--chat--color-secondary: #33717F;
+	--chat--color-dark: #33717F;
+	--chat--color-disabled: #777980;
+	--chat--color-typing: #404040;
+}
